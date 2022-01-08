@@ -1,0 +1,3 @@
+He Creado mi propio script que me permite ver en consola los px de la pantalla
+para mejor adaptacion al hacer responsive.
+HowLongPx.js
