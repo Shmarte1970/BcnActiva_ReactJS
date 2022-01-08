@@ -5,3 +5,8 @@ HowLongPx.js
 
 También esta el main.scss con la compilacion de colores. 
 (No es necesario, pero lo pango para que se vea que esta hecho)
+
+
+
+
+
