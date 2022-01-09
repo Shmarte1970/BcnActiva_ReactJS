@@ -21,6 +21,16 @@ body {
     color: white !important;
 }
 
+#exTab1 .tab-content {
+    color : rgb(12, 12, 12);
+    padding : 5px 15px;
+  }
+
+  #exTab1 .nav-tabs > li > button {
+    border-radius: 0;
+  }
+ 
+
 
 
 @media(max-width:991px){
@@ -38,7 +48,7 @@ body {
 
 @media(max-width:360px){
   
-
+  
 
     li {
         margin-top: 8px !important;
@@ -56,6 +66,8 @@ body {
         justify-content: left !important;
     }
 
+ 
+
 }
 
 @media(max-width:1200px){
@@ -64,4 +76,14 @@ body {
         justify-content: center !important;
         text-align: left;
     }
+
+    .img_tab_1 {
+        
+        flex-shrink:inherit !important;
+      
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    
 }
